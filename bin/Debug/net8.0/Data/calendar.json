@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Sub-13",
+    "Matches": [
+      {
+        "TeamDesignation": "Leça FC",
+        "Opponent": "Valadares Gaia",
+        "Date": "2025-09-13T15:00:00",
+        "Local": "Complexo Desportivo Valadares",
+        "IsHomeMatch": true
+      }
+    ]
+  },
+  {
+    "Name": "Sub-17",
+    "Matches": [
+      {
+        "TeamDesignation": "Leça FC",
+        "Opponent": "Trofense",
+        "Date": "2025-09-14T09:00:00",
+        "Local": "Parque Jogos Domingos Soares Lopes",
+        "IsHomeMatch": true
+      }
+    ]
+  },
+  {
+    "Name": "Sub-19",
+    "Matches": [
+      {
+        "TeamDesignation": "Leça FC SAD",
+        "Opponent": "Coimbrões",
+        "Date": "2025-09-13T17:00:00",
+        "Local": "Parque Jogos Domingos Soares Lopes",
+        "IsHomeMatch": true
+      }
+    ]
+  },
+  {
+    "Name": "Seniores",
+    "Matches": [
+      {
+        "TeamDesignation": "Leça FC SAD",
+        "Opponent": "Alpendorada",
+        "Date": "2025-09-14T17:00:00",
+        "Local": "Estádio do Leça",
+        "IsHomeMatch": true
+      }
+    ]
+  }
+]

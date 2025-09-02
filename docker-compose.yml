@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  leca-bot-api:
+    image: leca-bot-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development

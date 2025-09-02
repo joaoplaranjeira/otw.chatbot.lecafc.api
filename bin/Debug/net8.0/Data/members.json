@@ -1,0 +1,85 @@
+[
+    {
+      "Name": "João Laranjeira",
+      "MemberCode": 442,
+      "Role": "Presidente da Direção"
+    },
+    {
+      "Name": "Tiago Moura",
+      "MemberCode": 382,
+      "Role": "Vice-Presidente Formação da Direção"
+    },
+    {
+      "Name": "Hélder Valente",
+      "MemberCode": 1773,
+      "Role": "Vice‑Presidente Sócios e Área Social da Direção"
+    },
+    {
+      "Name": "Tiago Silva",
+      "MemberCode": 509,
+      "Role": "Vice‑Presidente Financeiro da Direção"
+    },
+    {
+      "Name": "Luis Neto",
+      "MemberCode": 572,
+      "Role": "Vice‑Presidente Património e Modalidades da Direção"
+    },
+    {
+      "Name": "Nuno Margarido",
+      "MemberCode": 1809,
+      "Role": "Vice‑Presidente Jurídico e Administrativo da Direção"
+    },
+    {
+      "Name": "Hugo Vieira",
+      "MemberCode": 2335,
+      "Role": "Vice‑Presidente Marketing da Direção"
+    },
+    {
+      "Name": "Pedro Silva",
+      "MemberCode": 1556,
+      "Role": "Vice‑Presidente Relações Externas da Direção"
+    },
+    {
+      "Name": "Ana Faria",
+      "MemberCode": 327,
+      "Role": "Presidente da Mesa da Assembleia Geral"
+    },
+    {
+      "Name": "Luís Soares",
+      "MemberCode": 928,
+      "Role": "Vice‑Presidente da Mesa da Assembleia Geral"
+    },
+    {
+      "Name": "Rui Manuel Carvalho",
+      "MemberCode": 79,
+      "Role": "Secretário da Mesa da Assembleia Geral"
+    },
+    {
+      "Name": "António Fangueiro",
+      "MemberCode": 875,
+      "Role": "Secretário da Mesa da Assembleia Geral"
+    },
+    {
+      "Name": "Hugo Salvador",
+      "MemberCode": 1765,
+      "Role": "Presidente do Conselho Fiscal"
+    },
+    {
+      "Name": "Henrique Cardoso",
+      "MemberCode": 239,
+      "Role": "Vice‑Presidente do Conselho Fiscal"
+    },
+    {
+      "Name": "Rui Pedro Carvalho",
+      "MemberCode": 282,
+      "Role": "Secretário do Conselho Fiscal"
+    },
+    {
+      "Name": "Joana Pinheiro",
+      "Role": "Responsável Comunicação"
+    },
+    {
+      "Name": "Serifo Cassamá",
+      "Description": "Lenda do Leça Futebol Clube que representou o clube entre 1987 e 2004."
+    }
+]
